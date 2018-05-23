@@ -1,0 +1,9 @@
+The Austin Benchmark Suite for Computational Bioelectromagnetics consists of a set of electromagnetic scattering problems, that are intended to represent frequently-encountered computational BioEM problems, various quantities that are of interest in different BioEM applications, a set of reference solutions that are partially hidden from method developers, and error and cost measures useful for comparing method performances.
+
+The benchmark suite was initially developed and is currently maintained by the computational electromagnetics group at The University of Texas at Austin. The Austin Benchmark Suite for Computational Bioelectromagnetics, including the reference results and the performance results for various methods for solving the problems in the benchmark, are freely available.
+
+We hope that independent researchers, developers, and users will find this data valuable for verification, validation, and performance studies, for improving their knowledge and understanding, and for advancing computational methods/tools. We also hope that the benchmark suite will lower the barrier to entry for new computational BioEM researchers, methods, and tools. We encourage visitors of the website to develop and use alternative methods/tools and compare the performance of these methods to those presented here. 
+
+We also encourage you to participate in the benchmark and submit your results to be included in the comparisons.
+
+The benchmark suite can be found at: http://web.corral.tacc.utexas.edu/BioEM-Benchmarks/index.html 
