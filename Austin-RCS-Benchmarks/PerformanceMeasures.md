@@ -1,0 +1,1 @@
+This file will contain an error measure and a cost measure for simulations.

@@ -1,1 +1,0 @@
-This file will contain precisely defined quantities of interest
