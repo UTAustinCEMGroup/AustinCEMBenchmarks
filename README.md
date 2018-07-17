@@ -2,7 +2,7 @@
 Austin Benchmark Suites for Computational Electromagnetics
 
 The CEM benchmark suites are currently being populated. Keep watching this space! 
-To receive updates, you can also subscribe to the email list: austincembenchmarks@utlists.utexas.edu
+To receive updates, you can also subscribe to the email list here: https://utlists.utexas.edu/sympa/subscribe/austincembenchmarks
 
 In software engineering, a "proto-benchmark" is defined as a set of tests used to compare the performance of alternative tools or techniques that is missing one of the components of a proper benchmark; most commonly, a performance measure (S. E. Sim et al., "Using benchmarking to advance research: a challenge to software engineering," in Proc. Int. Conf. Software Eng. May 2003). Both proto-benchmarks and benchmarks can be used to demonstrate features of a new computational system (algorithm, code, supporting software, hardware), while only benchmarks can also systematically combat the ubiquity of error, ameliorate the hazards of specialization, fortify scientific integrity, and inspire research.
 
