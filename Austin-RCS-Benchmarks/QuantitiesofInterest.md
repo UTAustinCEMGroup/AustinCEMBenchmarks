@@ -1,1 +1,1 @@
-This file will contain precisely defined quantities of interest
+The quantities of interest are defined in detail in the ProblemDescription document are defined in the ProblemDescription document (please see the directory of each problem set).
