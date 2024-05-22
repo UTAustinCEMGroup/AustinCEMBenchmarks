@@ -1,0 +1,24 @@
+Name: MoM
+
+Formulation: Frequency-domain combined-field integral equation with CFIE parameter alpha=0.5
+
+Algorithm: Iterative method-of-moments solution using triangular elements with RWG basis/testing functions
+	   Fills impedance matrix entries with numerical integration with singularity extraction for self and near-singular terms
+	   Diagonally-preconditioned TFQMR with 10^-4 relative residual
+
+Software: Implemented by CEM group at UT Austin, modern Fortran, Intel Fortran compiler v19.1.1
+
+Hardware: Lonestar6 at the Texas Advanced Computing Center [1]
+	  37.5	! Theoretical total serial power available (Gflop/s)
+	  4.8	! Theoretical total node power available (Tflop/s)
+	  AMD EPYC 7763 64-Core Processor ! CPU1: name
+          2.45	! CPU1: core frequency (GHz)
+	  15.3	! CPU1: flop / cycle / core
+	  64	! CPU1: cores / processor
+	  2	! CPU1: processors / node
+	  256   ! CPU1: DDR-4 memory / node (GB)
+
+Submission Date: 31/05/2024
+
+References:
+[1] https://docs.tacc.utexas.edu/hpc/lonestar6/

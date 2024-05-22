@@ -1,0 +1,17 @@
+﻿Method ID,Frequency ID,Size ID,Avg. Err. VV [dB],Avg. Err. HH [dB],Wall Time [s],Max. Mem/Proc [GB],# of processes,Extra Info 1,Extra Info 2
+1,6,7,7.82E-01,1.21E+00,4.23E+04,3.98E+00,16,Parallel efficient run,mesh BB
+1,6,7,7.82E-01,1.21E+00,2.25E+04,5.04E-01,128,Parallel fast run,mesh BB
+2,6,7,7.86E-01,1.21E+00,3.25E+04,5.34E-01,4,Parallel efficient run,mesh BB
+2,6,7,3.75E-01,5.30E-01,5.49E+04,6.06E-01,16,Parallel efficient run,mesh CC
+2,6,7,1.35E-01,1.40E-01,9.99E+04,1.15E+00,64,Parallel efficient run,mesh DD
+2,6,7,3.57E-02,NA,1.89E+05,1.95E+00,256,Parallel efficient run,mesh EE
+2,6,7,7.93E-01,1.21E+00,9.86E+03,8.77E-02,32,Parallel fast run,mesh BB
+2,6,7,3.75E-01,5.30E-01,1.66E+04,1.14E-01,128,Parallel fast run,mesh CC
+2,6,7,1.35E-01,1.40E-01,1.64E+04,2.55E-01,512,Parallel fast run,mesh DD
+2,6,7,3.57E-02,NA,3.36E+04,5.98E-01,2048,Parallel fast run,mesh EE
+3,6,7,7.82E-01,1.21E+00,1.23E+04,8.63E-01,8,Parallel efficient run,mesh BB
+3,6,7,3.74E-01,5.26E-01,6.50E+04,2.44E+00,16,Parallel efficient run,mesh CC
+3,6,7,1.36E-01,1.36E-01,1.80E+05,4.32E+00,64,Parallel efficient run,mesh DD
+3,6,7,7.82E-01,1.21E+00,5.51E+03,2.21E-01,32,Parallel fast run,mesh BB
+3,6,7,3.74E-01,5.26E-01,5.04E+04,3.31E-01,128,Parallel fast run,mesh CC
+3,6,7,1.36E-01,1.36E-01,9.37E+04,6.72E-01,512,Parallel fast run,mesh DD

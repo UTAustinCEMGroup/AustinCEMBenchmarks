@@ -1,17 +1,19 @@
 Some of the relevant works and publications are listed below:
-[1]  J. T. Kelley, K. A. Norris, B. MacKie-Mason, B. Barton, D. A. Chamulak, S. Schaefer, M. Martin, K. Crouch, C. C. Courtney, and A. E. Yilmaz, "Reproducible measurements of "fan blades in a pipe" CEM benchmark," in Proc. AMTA Symp., Oct. 2023.
-[2]  J. T. Kelley, B. MacKie-Mason, K. A. Norris, B. Barton, D. A. Chamulak, S. Schaefer, M. Martin, C. C. Courtney, and A. E. Yilmaz, "Using camera boxes to build reproducible CEM benchmarks with complex ducts," in Proc. IEEE Antennas Propag. Soc. Int. Symp., July 2023.
-[3]  A. E. Yilmaz, E. Smith, S. Cox, B. MacKie-Mason, C. C. Courtney, and G. Burchuk, "Camera boxes: a set of complex scattering problems to test EM simulations and measurements," in Proc. IEEE Antennas Propag. Soc. Int. Symp., July 2022.
-[4]  A. E. Yilmaz, B. MacKie-Mason, S. Cox, C. C. Courtney, and G. Burchuk, "On the sensitivity of RCS to the wall conductivity of highly-conductive structures with voids," in Proc. IEEE Antennas Propag. Soc. Int. Symp., July 2022.
-[5]  A. Maicke, J. T. Kelley, B. MacKie-Mason, C. C. Courtney, S. Cox, D. A. Chamulak, G. Burchuk, A. E. Yilmaz, "A benchmark airplane model with ducts," in Proc. IEEE Int. Symp. Antennas Propag., July 2022.
-[6]  J. T. Kelley, C. C. Courtney, D. A. Chamulak, and A. E. Yılmaz, “A Monte Carlo analysis of the impact of material parameter uncertainty on RCS predictions,” in Proc. Int. Conf. Electromagnetics Adv. App. (ICEAA), Aug. 2021.
-[7]  J. T. Kelley, A. E. Yilmaz, D. A. Chamulak, C. C. Courtney, "Increasing the material diversity in the Austin RCS Benchmark Suite using thin plates," in Proc. AMTA Symp., Nov. 2020. 
-[8]  J. T. Kelley, A. Maicke, D. A. Chamulak, C. C. Courtney, and A. E. Yılmaz, "Adding a reproducible airplane model to the Austin RCS Benchmark Suite," in Proc. ACES Symp., July 2020.
-[9]  J. T. Kelley, D. A. Chamulak, C. C. Courtney, and A. E. Yılmaz, “Rye Canyon RCS measurements of benchmark almond targets,” IEEE Antennas Propagat. Mag., Feb. 2020.
-[10] J. T. Kelley, D. Chamulak, C. C. Courtney, and A. E. Yılmaz, “Measurements of non-metallic targets for the Austin RCS Benchmark suite,” in Proc. AMTA Symp., Oct. 2019.
-[11] J. T. Kelley, C. Courtney, D. A. Chamulak, and A. E. Yılmaz, “Austin RCS benchmark suite developments,” in Proc. USNC/URSI Rad. Sci. Meet., July 2019.
-[12] J. W. Massey, J. T. Kelley, C. Courtney, D. A. Chamulak, and A. E. Yılmaz, "A benchmark suite for quantifying RCS simulation performance on modern computers," in Proc. USNC/URSI Rad. Sci. Meet., July 2018.
-[13] J. T. Kelley, J. W. Massey, and A. E. Yılmaz, “Extending proto-benchmarks to create benchmarks for quantifying modern computational electromagnetics performance,” in Proc. URSI NRSM, Jan. 2018.
-[14] A. E. Yılmaz, “Advancing computational electromagnetics research through benchmarking,” in Proc. USNC/URSI Rad. Sci. Meet., July 2017.
-[15] J. W. Massey, A. Menshov, and A. E. Yılmaz, “Toward next-generation benchmarking of CEM methods: comparing computational costs,” in Proc. URSI NRSM, Jan. 2017.
-[16] J. W. Massey, C. Liu, and A. E. Yılmaz, “Benchmarking to close the credibility gap: A computational BioEM benchmark suite,” in Proc. URSI EMTS, Aug. 2016.
+[1]  A. Maicke, J. T. Kelley, and A. E. Yilmaz, "MFIE-induced RCS errors in CFIE simulations of a fan-loaded camera box," in Proc. ACES Symp., May 2024.
+[2]  J. T. Kelley, B. MacKie-Mason, D. A. Chamulak, M. Martin, K. Crouch, C. C. Courtney, and A. E. Yilmaz, "Towards quantifying the effect of material uncertainty on RCS predictions of composite targets," in Proc. ACES Symp., May 2024.
+[3]  J. T. Kelley, K. A. Norris, B. MacKie-Mason, B. Barton, D. A. Chamulak, S. Schaefer, M. Martin, K. Crouch, C. C. Courtney, and A. E. Yilmaz, "Reproducible measurements of "fan blades in a pipe" CEM benchmark," in Proc. AMTA Symp., Oct. 2023.
+[4]  J. T. Kelley, B. MacKie-Mason, K. A. Norris, B. Barton, D. A. Chamulak, S. Schaefer, M. Martin, C. C. Courtney, and A. E. Yilmaz, "Using camera boxes to build reproducible CEM benchmarks with complex ducts," in Proc. IEEE Antennas Propag. Soc. Int. Symp., July 2023.
+[5]  A. E. Yilmaz, E. Smith, S. Cox, B. MacKie-Mason, C. C. Courtney, and G. Burchuk, "Camera boxes: a set of complex scattering problems to test EM simulations and measurements," in Proc. IEEE Antennas Propag. Soc. Int. Symp., July 2022.
+[6]  A. E. Yilmaz, B. MacKie-Mason, S. Cox, C. C. Courtney, and G. Burchuk, "On the sensitivity of RCS to the wall conductivity of highly-conductive structures with voids," in Proc. IEEE Antennas Propag. Soc. Int. Symp., July 2022.
+[7]  A. Maicke, J. T. Kelley, B. MacKie-Mason, C. C. Courtney, S. Cox, D. A. Chamulak, G. Burchuk, A. E. Yilmaz, "A benchmark airplane model with ducts," in Proc. IEEE Int. Symp. Antennas Propag., July 2022.
+[8]  J. T. Kelley, C. C. Courtney, D. A. Chamulak, and A. E. Yılmaz, “A Monte Carlo analysis of the impact of material parameter uncertainty on RCS predictions,” in Proc. Int. Conf. Electromagnetics Adv. App. (ICEAA), Aug. 2021.
+[9]  J. T. Kelley, A. E. Yilmaz, D. A. Chamulak, C. C. Courtney, "Increasing the material diversity in the Austin RCS Benchmark Suite using thin plates," in Proc. AMTA Symp., Nov. 2020. 
+[10]  J. T. Kelley, A. Maicke, D. A. Chamulak, C. C. Courtney, and A. E. Yılmaz, "Adding a reproducible airplane model to the Austin RCS Benchmark Suite," in Proc. ACES Symp., July 2020.
+[11] J. T. Kelley, D. A. Chamulak, C. C. Courtney, and A. E. Yılmaz, “Rye Canyon RCS measurements of benchmark almond targets,” IEEE Antennas Propagat. Mag., Feb. 2020.
+[12] J. T. Kelley, D. Chamulak, C. C. Courtney, and A. E. Yılmaz, “Measurements of non-metallic targets for the Austin RCS Benchmark suite,” in Proc. AMTA Symp., Oct. 2019.
+[13] J. T. Kelley, C. Courtney, D. A. Chamulak, and A. E. Yılmaz, “Austin RCS benchmark suite developments,” in Proc. USNC/URSI Rad. Sci. Meet., July 2019.
+[14] J. W. Massey, J. T. Kelley, C. Courtney, D. A. Chamulak, and A. E. Yılmaz, "A benchmark suite for quantifying RCS simulation performance on modern computers," in Proc. USNC/URSI Rad. Sci. Meet., July 2018.
+[15] J. T. Kelley, J. W. Massey, and A. E. Yılmaz, “Extending proto-benchmarks to create benchmarks for quantifying modern computational electromagnetics performance,” in Proc. URSI NRSM, Jan. 2018.
+[16] A. E. Yılmaz, “Advancing computational electromagnetics research through benchmarking,” in Proc. USNC/URSI Rad. Sci. Meet., July 2017.
+[17] J. W. Massey, A. Menshov, and A. E. Yılmaz, “Toward next-generation benchmarking of CEM methods: comparing computational costs,” in Proc. URSI NRSM, Jan. 2017.
+[18] J. W. Massey, C. Liu, and A. E. Yılmaz, “Benchmarking to close the credibility gap: A computational BioEM benchmark suite,” in Proc. URSI EMTS, Aug. 2016.
