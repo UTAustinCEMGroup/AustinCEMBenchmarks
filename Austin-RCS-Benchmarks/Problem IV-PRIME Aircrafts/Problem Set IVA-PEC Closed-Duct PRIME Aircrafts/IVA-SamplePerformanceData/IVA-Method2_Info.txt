@@ -20,7 +20,7 @@ Hardware: Lonestar6 at the Texas Advanced Computing Center [4]
 	  2	! CPU1: processors / node
 	  256   ! CPU1: DDR-4 memory / node (GB)
 
-Submission Date: 31/05/2024
+Submission Date: 28/02/2025
 
 References:
 [1] M. F. Wu, G. Kaur, and A. E. Yılmaz, “A multiple-grid adaptive integral method for multi-region problems,” IEEE Trans. Antennas Propag., vol. 58, no. 5, pp. 1601-1613, May 2010.

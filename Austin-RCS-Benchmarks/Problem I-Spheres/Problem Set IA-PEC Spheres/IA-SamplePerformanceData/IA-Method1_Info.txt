@@ -18,7 +18,7 @@ Hardware: Lonestar6 at the Texas Advanced Computing Center [1]
 	  2	! CPU1: processors / node
 	  256   ! CPU1: DDR-4 memory / node (GB)
 
-Submission Date: 31/05/2024
+Submission Date: 28/02/2025
 
 References:
 [1] https://docs.tacc.utexas.edu/hpc/lonestar6/

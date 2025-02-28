@@ -20,9 +20,9 @@ Hardware: Lonestar6 at the Texas Advanced Computing Center [2]
 	  2	! CPU1: processors / node
 	  256   ! CPU1: DDR-4 memory / node (GB)
 
-Submission Date: 31/05/2024
+Submission Date: 28/02/2025
 
 References:
-[1] J. T. Kelley, “Reliable hierarchical matrix compression methods and their efficient parallelization for integral-equation based RCS prediction ,” Ph.D disertation, University of Texas at Austin, 2022.
+[1] J. T. Kelley, “Reliable hierarchical matrix compression methods and their efficient parallelization for integral-equation based RCS prediction,” Ph.D disertation, University of Texas at Austin, 2022.
 [2] https://docs.tacc.utexas.edu/hpc/lonestar6/
 
